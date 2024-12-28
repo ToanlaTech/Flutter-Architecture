@@ -1,0 +1,63 @@
+# Flutter/Dart/Pub related
+**/build/
+**/ios/Flutter/App.framework
+**/ios/Flutter/Flutter.framework
+**/ios/Flutter/Flutter.podspec
+**/ios/Flutter/engine
+**/ios/Flutter/flutter_assets
+**/ios/ServiceDefinitions.json
+**/ios/Podfile.lock
+**/.dart_tool/
+**/.android/
+**/.idea/
+**/.packages
+**/.flutter-plugins
+**/.flutter-plugins-dependencies
+**/.dart_tool/
+**/.vscode/
+pubspec.lock
+.idea/
+.vscode/
+
+# Android/IntelliJ related
+*.iml
+.gradle
+/local.properties
+.DS_Store
+
+# iOS/macOS
+*.pbxuser
+!default.pbxuser
+*.mode1v3
+!default.mode1v3
+*.mode2v3
+!default.mode2v3
+*.perspectivev3
+!default.perspectivev3
+xcuserdata/
+*.xcworkspace
+*.xcuserstate
+DerivedData/
+*.hmap
+
+# Miscellaneous
+*.log
+*.tmp
+*.swp
+*.lock
+
+# Firebase related
+**/ios/Runner/GoogleService-Info.plist
+**/android/app/google-services.json
+
+# Linux
+**/linux/flutter/ephemeral/
+
+# Windows
+**/windows/flutter/ephemeral/
+
+# Web
+**/web/flutter/ephemeral/
+
+# Generated plugin files
+**/.dart_tool/
